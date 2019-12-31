@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/CodeLearn/v16
+/Debug
+/packages
+/CodeTest/Debug
+/CodeTest/x64/Debug
